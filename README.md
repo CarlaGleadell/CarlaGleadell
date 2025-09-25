@@ -1,5 +1,6 @@
-![Banner](https://raw.githubusercontent.com/CarlaGleadell/CarlaGleadell/main/Profile.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlaGleadell/CarlaGleadell/main/Profile.png" alt="Profile picture" width="150" height="150" style="border-radius:50%;">
+</p>
 
 
 <h1 align="center">
