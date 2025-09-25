@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/CarlaGleadell/CarlaGleadell/main/banner.png)
+![Banner](https://raw.githubusercontent.com/CarlaGleadell/CarlaGleadell/main/Banner.png)
 
 
 
