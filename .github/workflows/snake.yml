@@ -2,24 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # corre todos los días a las 00:00 UTC
-  workflow_dispatch:       # te permite correrlo manualmente desde Actions
+    - cron: "0 0 * * *"     # corre todos los días 00:00 UTC
+  workflow_dispatch:         # permite ejecutarlo a mano
 
 permissions:
-  contents: write          # MUY IMPORTANTE: escribir en el repo
+  contents: write            # necesario para crear/actualizar la rama output
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG / GIF
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: CarlaGleadell
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
