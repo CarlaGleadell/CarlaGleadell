@@ -20,7 +20,7 @@ Advanced Computer Systems student • National University of Patagonia Austral
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
 </a>
  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+repository+!" alt="Developer Quote"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Hello+world+!" alt="Developer Quote"/>
 </p>
 </p>
  
@@ -69,13 +69,7 @@ Advanced Computer Systems student • National University of Patagonia Austral
 </p>
 
 ---
-<h3 align="center">Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CarlaGleadell/CarlaGleadell/output/github-contribution-grid-snake.svg" alt="snake"/>
-  
-</p>
 
----
 <div align="center">
 <a href="#">
     <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E0BBE4&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
