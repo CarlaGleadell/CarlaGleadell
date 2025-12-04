@@ -10,7 +10,7 @@
   I’m Carla Gleadell</h1>
 <p align="center">
 Software Developer • Judicial Branch of Santa Cruz Province <br/>
-Advanced Computer Systems student • National University of Patagonia Austral
+Systems Analyst • National University of Patagonia Austral
 </p>
 
 <p align="center">
