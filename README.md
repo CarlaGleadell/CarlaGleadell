@@ -16,9 +16,8 @@ Systems Analyst • National University of Patagonia Austral
 <p align="center">
   <a href="https://www.linkedin.com/in/carla-g-7412b51b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:carlagleadell@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://discord.gg/510184215799791616" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
-</a>
+  <a href="https://discord.gg/510184215799791616" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"></a>
+  <a href="https://www.instagram.com/car.glea/" target="_blank"><img alt="Instagram"src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Hello+world+!" alt="Developer Quote"/>
 </p>
