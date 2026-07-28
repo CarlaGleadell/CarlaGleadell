@@ -136,10 +136,7 @@ I also study Literature and take part in university initiatives involving outrea
   <h3>
     <em>“The most dangerous phrase in the language is:<br>‘We’ve always done it this way.’”</em>
   </h3>
-  <p><strong>— Grace Hopper</strong> ✨</p>
-
-  <sub>Siempre aprendiendo, documentando y transformando ideas en soluciones útiles.</sub><br>
-  <em><sub>Always learning, documenting and turning ideas into useful solutions.</sub></em>
+  <p><strong>Grace Hopper</strong></p>
 
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7D6B91&height=90&section=footer" width="100%" alt="">
